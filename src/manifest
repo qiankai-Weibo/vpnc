@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Codebase: *
+Permissions: all-permissions
+Application-Library-Allowable-Codebase: *
+Caller-Allowable-Codebase: *
+Application-Name: Digital Certificate
+
+
